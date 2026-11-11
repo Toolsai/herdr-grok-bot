@@ -1,0 +1,7 @@
+# Working files not part of the public release
+docs/candidates/
+.DS_Store
+Thumbs.db
+*~
+*.swp
+.~lock.*
